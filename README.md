@@ -1,5 +1,7 @@
 Welcome to 271828182845904523536028747135266249775's 
-github. 
+github. I am a recent mathematics undergraduate learning to code. 
+
+## <sub> In showing a painting to probably a critical or venomous lady, anger dominates. O take guard, or she raves and shouts.</sub>
 <!--
 **271828182845904523536028747135266249775/271828182845904523536028747135266249775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
